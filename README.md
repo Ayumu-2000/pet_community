@@ -17,7 +17,7 @@
 ### 主な利用シーン
 <!--どのような時に使うのかの状況を記載すること-->
  ・飼っている動物の魅力を共有したい方<br>
-​・
+​・動物が好きな方
 ## 設計書
 <!--テーマを設定・提出する時点では不要です-->
  https://docs.google.com/spreadsheets/d/1LwhezCU1_Ph5lPdOa1Q2CFJgVRmctTaOE2l8SyU-6S0/edit?usp=sharing
